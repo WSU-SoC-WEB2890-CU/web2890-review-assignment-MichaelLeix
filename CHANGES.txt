@@ -1,1 +1,31 @@
-TODO: List here all the changes you made to given template to adapt it to your needs
+## Changes:
+
+changed to these colors:
+#1a1a2e
+#e0eafc
+#0a58ca
+
+navbar changes:
+removed navbar logo
+aligned nav buttons to the left
+aligned phone number to the right
+moving most of the content to the left (where there was a logo that didn't do anything) is a better use of space overall.
+moving the phone number to be seperate from the other navbar content creates an important distinction.
+made the buttons jump to the respective content.
+
+other:
+changed images for a more coherent color scheme.
+Changed services to be vertically stacked instead of horizontal.
+
+testimonials:
+replaced all the filler content.
+
+faq:
+filled out placeholder info.
+
+portfolio:
+replaced filler content and images (removed 3 entries because I don't have enough to show.)
+
+extra changes:
+added a 'process' section, explaining how I would develop websites. uses a card system.
+added a 'tech stack' section, displaying how confident I am with specific libraries and such.
